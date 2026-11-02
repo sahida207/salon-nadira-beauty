@@ -1,0 +1,1 @@
+console.log("Website Salon Nadira Beauty berhasil dibuka!");
