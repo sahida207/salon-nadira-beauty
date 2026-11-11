@@ -1,0 +1,23 @@
+.kartu {
+    display: inline-block;
+    background-color: white;
+    width: 250px;
+    margin: 15px;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    vertical-align: top;
+}
+
+.kartu h3 {
+    color: #a94f70;
+    margin-bottom: 15px;
+}
+
+.galeri img {
+    width: 250px;
+    height: 180px;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 10px;
+}
